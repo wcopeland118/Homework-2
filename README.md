@@ -2,4 +2,4 @@
 
 ### Pictures documenting the progression and result of this excel exercise.
 
-### Reference for 
+### Reference for best practices on ticker set-up
